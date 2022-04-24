@@ -1,0 +1,4 @@
+('Evento: alta', 'Contador de registros: 1', 'Nombre: momo', 'Apellido: marible', 'DNI: 12324', 'Telefono: 14234', 'Pelicula: momoneitor3', 'Alquiler: asd', 'fecha: 2022-02-06 19:09:09.948861')
+***************************
+('Evento: baja', 'Contador de registros: 1', 'fecha: 2022-02-06 19:09:16.355124')
+***************************
